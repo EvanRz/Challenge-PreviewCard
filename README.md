@@ -1,3 +1,3 @@
 # Frontend Mentor - Product preview card component
-![Desktop design](./design/desktop-design.jpg.jpg)
-![Mobile design](./design/mobile-preview.jpg)
+![Desktop design](./design/desktop-design.jpg)
+![Mobile design](./design/mobile-design.jpg)
