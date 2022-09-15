@@ -108,11 +108,6 @@ body {
         background-color: hsl(212, 21%, 14%);
     }
     
-    #cart-icon {
-        width: 20px;
-        height: 20px;
-    }
-    
     .card-description > * {
         padding-left: 35px;
         width: 290px;
@@ -222,11 +217,6 @@ body {
     
     .cart-button:hover {
         background-color: hsl(212, 21%, 14%);
-    }
-    
-    #cart-icon {
-        width: 20px;
-        height: 20px;
     }
     
     .card-description > * {
